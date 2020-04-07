@@ -1,5 +1,3 @@
----
-
 # Toy App
 
 > This project is completed by Oscar Alfredo Gómez Elizarrarás and Carlos Santamaría, in partial requirements of the Microverse cirriculum. 
